@@ -12,7 +12,7 @@ You are tasked with creating a dashboard in Power BI that will provide insight i
 
 **Important Note**
 
-This dashboard was originally created by connecting directly to the Sharepoint List. However, for the sake of confidentiality and simplicity, I've recreated this dashboard and its sources in Tableau and SQL. I've populated an SQL table with sample data, and used that data to create an almost identical dashboard in Tableau. 
+This dashboard was originally created by connecting directly to the Sharepoint List. However, for the sake of confidentiality and simplicity, I've recreated this dashboard and its sources in SQL. I've populated an SQL table with sample data, and used that data to create an almost identical dashboard in Power BI. 
 
 ## The Code and Source
 ```sql
