@@ -4,7 +4,7 @@ SQL code for my contracts dashboard
 ## Introduction
 **The Situation**
 
-The Contracts team currently uses a Sharepoint List to track contracts in the pipeline. These contracts have various statuses, dollar amounts, requestors, properties, vendors, and dates. Your supervisor would like to see useful metrics that could help her make decisions in improving the teams performance and efficiency. 
+The Contracts team currently uses a Sharepoint List to track contracts in the pipeline. These contracts have various statuses, dollar amounts, requestors, properties, vendors, and dates. Your supervisor would like to see useful metrics that could help her make decisions in improving the team's performance and efficiency. 
 
 **The Objective**
 
