@@ -39,3 +39,4 @@ VALUES ('COMPLETE', 2, 'Baldwin Park', 'Charlie Cox', '2020-1-5', 'Jimmy John', 
 ('PRE-APPROVAL', 7, 'Arcadia', 'Bob Bill', '2020-2-1', 'George Gar', 'CO Detectors', 'Yes', '2020-2-12', 1000)
 ```
 
+<img width="1000" img height="200" alt="image" src="https://user-images.githubusercontent.com/120063554/206329438-31f8ff94-df0c-43a8-96dd-58e164e908b6.png">
