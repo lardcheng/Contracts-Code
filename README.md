@@ -30,13 +30,16 @@ DollarAmount int,
 )
 
 INSERT INTO Residential
-VALUES ('COMPLETE', 2, 'Baldwin Park', 'Charlie Cox', '2020-1-5', 'Jimmy John', 'Bathroom Sink Repairs', 'Yes', '2020-1-20', 4000), 
-('COMPLETE', 1, 'Arcadia', 'Bob Bill', '2020-1-1', 'Jimmy John', 'Replace Lights', 'Yes', '2020-1-14', 5000),
-('COMPLETE', 3, 'Temple City', 'Danny Dan', '2020-1-10', 'George Gar', 'Door Replacement', 'No', '2020-1-21', 2000),
-('RECEIVED', 4, 'Monrovia', 'Edward Eddy', '2020-3-11', 'George Gar', 'Kitchen Sink Repairs', 'No', '2020-3-21', 5000),
-('IN PROGRESS', 5, 'Monrovia', 'Edward Eddy', '2020-3-12', 'Yolanda Yee', 'Tree Trimming', 'No', '2020-3-22', 5000),
-('CANCELLED', 6, 'El Monte', 'Fred Fair', '2020-2-12', 'Yolanda Yee', 'New Carts', 'No', '2020-2-20', 5000),
-('PRE-APPROVAL', 7, 'Arcadia', 'Bob Bill', '2020-2-1', 'George Gar', 'CO Detectors', 'Yes', '2020-2-12', 1000)
+VALUES ('COMPLETE', 1, 'Baldwin Park', 'Charlie Cox', '2020-1-5', 'Jimmy John', 'Bathroom Sink Repairs', 'Yes', '2020-1-20', 4000, 'A Company'), 
+('COMPLETE', 2, 'Arcadia', 'Bob Bill', '2020-1-1', 'Jimmy John', 'Replace Lights', 'Yes', '2020-1-14', 5000, 'C Company'),
+('COMPLETE', 3, 'Temple City', 'Danny Dan', '2020-1-10', 'George Gar', 'Door Replacement', 'No', '2020-1-21', 2000, 'B Company'),
+('RECEIVED', 4, 'Monrovia', 'Edward Eddy', '2022-3-11', 'George Gar', 'Kitchen Sink Repairs', 'No', NULL, 5000, 'A Company'),
+('IN PROGRESS', 5, 'Monrovia', 'Edward Eddy', '2022-3-12', 'Yolanda Yee', 'Tree Trimming', 'No', NULL, 5000, 'C Company'),
+('CANCELLED', 6, 'El Monte', 'Fred Fair', '2020-2-12', 'Yolanda Yee', 'New Carts', 'No', NULL, 5000, 'B Company'),
+('PRE-APPROVAL', 7, 'Arcadia', 'Bob Bill', '2022-2-1', 'George Gar', 'CO Detectors', 'Yes', NULL, 1000, 'A Company'),
+('COMPLETE', 8, 'Baldwin Park', 'Charlie Cox', '2019-5-6', 'Jimmy John', 'HVAC Repairs', 'No', '2019-5-14', 2000, 'D Company'),
+('COMPLETE', 9, 'Temple City', 'Danny Dan', '2019-10-20', 'Yolanda Yee', 'Hot Water Heaters', 'No', '2019-10-30', 2000, 'E Company'),
+('COMPLETE', 10, 'Arcadia', 'Bob Bill', '2021-8-11', 'Yolanda Yee', 'Sidewalk Repairs', 'Yes', '2021-8-22', 3000, 'Z Company')
 ```
 
 <img width="1000" img height="200" alt="image" src="https://user-images.githubusercontent.com/120063554/206329438-31f8ff94-df0c-43a8-96dd-58e164e908b6.png">
