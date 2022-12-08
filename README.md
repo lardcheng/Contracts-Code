@@ -42,4 +42,4 @@ VALUES ('COMPLETE', 1, 'Baldwin Park', 'Charlie Cox', '2020-1-5', 'Jimmy John', 
 ('COMPLETE', 10, 'Arcadia', 'Bob Bill', '2021-8-11', 'Yolanda Yee', 'Sidewalk Repairs', 'Yes', '2021-8-22', 3000, 'Z Company')
 ```
 
-<img width="1000" img height="200" alt="image" src="https://user-images.githubusercontent.com/120063554/206329438-31f8ff94-df0c-43a8-96dd-58e164e908b6.png">
+<img width="1000" img height="200" alt="image" src="https://user-images.githubusercontent.com/120063554/206403007-5fc58308-332c-4975-97cf-85fb517ba6cb.png">
