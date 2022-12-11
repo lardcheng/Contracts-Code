@@ -1,5 +1,4 @@
 # Contracts Dashboard Code
-SQL code for my contracts dashboard
 
 ## Introduction
 **The Situation**
